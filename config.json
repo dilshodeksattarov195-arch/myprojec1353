@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpersarse",
+        "uuid": 7294023,
+        "checksum": "d5yiwf"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
